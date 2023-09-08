@@ -61,6 +61,7 @@
   <resources>
     <resource identifier="__5gCuGKVcRd1_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6kVBb1rNzQ9_44100_48_0.mp3" />
       <file href="meta.xml" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
