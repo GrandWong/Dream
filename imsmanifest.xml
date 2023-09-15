@@ -62,10 +62,21 @@
     <resource identifier="__5gCuGKVcRd1_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/6kVBb1rNzQ9_44100_48_0.mp3" />
+      <file href="story_content/6TJ8YM9WWSM_44100_48_0.mp3" />
+      <file href="mobile/5jKnrYPJHp3.png" />
+      <file href="mobile/6jdKeM3adIw.png" />
+      <file href="mobile/63ttCX9BnhP.png" />
+      <file href="mobile/5hWE2THTacw.png" />
+      <file href="mobile/5dpSHhbuXd7.png" />
+      <file href="mobile/60TGF639MGX.png" />
+      <file href="mobile/6OEczK4QFkp.png" />
+      <file href="mobile/621BdohzxIC.png" />
       <file href="meta.xml" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5kwJBwTmC7i.js" />
+      <file href="html5/data/js/61tNeh3PQpK.js" />
+      <file href="html5/data/js/6N4eUovnzlr.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
